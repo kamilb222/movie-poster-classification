@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
+tqdm
+requests
+ipywidgets
+jupyter
+IProgress

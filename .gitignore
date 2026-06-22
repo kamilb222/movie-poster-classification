@@ -1,0 +1,24 @@
+# Model weights
+*.pth
+
+# Downloaded images (too large — run download_images.py to generate locally)
+images/
+data/SampleMoviePosters/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Misc
+AGENTS.md
+.env
